@@ -16,6 +16,6 @@ Execution of Normal instruction is easy task...
 To execute instruction which are in pipeline ---- required some mechanisam to implement that
 
 Solution 
--- Take two file 'temp1' and 'temp2' 
--- Use both file interchangably to to read/write(stdin/stdout) output of previous instruction...
--- This is most effective solution for execution instructions which are in pipeline..
+- Take two file 'temp1' and 'temp2' 
+- Use both file interchangably to to read/write(stdin/stdout) output of previous instruction...
+- This is most effective solution for execution instructions which are in pipeline..
