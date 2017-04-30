@@ -1,0 +1,24 @@
+Hello    Nk ai
+    %BEGIN
+    lsusb 
+    %END
+  
+    dasda
+    dsaasd
+    as#das
+    asdas
+
+    sdasd
+    sa
+
+    %BEGIN
+    ls -l
+    ls -l | grep test
+    lsusb
+    ls -l | grep abc
+    lsusb
+    #INTERSTART
+    ls -l | grep ab
+    pwd >> ghj.txt
+    %END
+    fdfd
